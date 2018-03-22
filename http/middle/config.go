@@ -2,7 +2,7 @@ package middle
 
 import (
 	"context"
-	"go.rls.moe/nyx/config"
+	"github.com/davidbelliott/nyx/config"
 	"net/http"
 )
 

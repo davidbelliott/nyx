@@ -1,10 +1,10 @@
 package admin
 
 import (
-	"go.rls.moe/nyx/http/errw"
-	"go.rls.moe/nyx/http/middle"
+	"github.com/davidbelliott/nyx/http/errw"
+	"github.com/davidbelliott/nyx/http/middle"
 	"strconv"
-	"go.rls.moe/nyx/resources"
+	"github.com/davidbelliott/nyx/resources"
 	"fmt"
 	"net/http"
 	"github.com/tidwall/buntdb"

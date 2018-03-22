@@ -3,8 +3,8 @@ package board
 import (
 	"bytes"
 	"github.com/nfnt/resize"
-	"go.rls.moe/nyx/http/errw"
-	"go.rls.moe/nyx/resources"
+	"github.com/davidbelliott/nyx/http/errw"
+	"github.com/davidbelliott/nyx/resources"
 	"image"
 	"image/png"
 	"io"

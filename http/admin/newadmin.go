@@ -2,9 +2,9 @@ package admin
 
 import (
 	"github.com/tidwall/buntdb"
-	"go.rls.moe/nyx/http/errw"
-	"go.rls.moe/nyx/http/middle"
-	"go.rls.moe/nyx/resources"
+	"github.com/davidbelliott/nyx/http/errw"
+	"github.com/davidbelliott/nyx/http/middle"
+	"github.com/davidbelliott/nyx/resources"
 	"net/http"
 )
 

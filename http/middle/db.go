@@ -3,8 +3,8 @@ package middle
 import (
 	"context"
 	"github.com/tidwall/buntdb"
-	"go.rls.moe/nyx/config"
-	"go.rls.moe/nyx/resources"
+	"github.com/davidbelliott/nyx/config"
+	"github.com/davidbelliott/nyx/resources"
 	"net/http"
 )
 

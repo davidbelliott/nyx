@@ -1,7 +1,7 @@
 package resources
 
 import (
-	"go.rls.moe/nyx/resources/snowflakes"
+	"github.com/davidbelliott/nyx/resources/snowflakes"
 	"time"
 )
 

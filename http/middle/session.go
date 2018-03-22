@@ -2,7 +2,7 @@ package middle
 
 import (
 	"github.com/icza/session"
-	"go.rls.moe/nyx/config"
+	"github.com/davidbelliott/nyx/config"
 	"net/http"
 )
 

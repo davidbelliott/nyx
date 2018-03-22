@@ -4,7 +4,7 @@ import (
 	"errors"
 	"github.com/GeertJohan/go.rice"
 	"github.com/pressly/chi/middleware"
-	"go.rls.moe/nyx/http/middle"
+	"github.com/davidbelliott/nyx/http/middle"
 	"html/template"
 	"net/http"
 )
