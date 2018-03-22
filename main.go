@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go.rls.moe/nyx/config"
-	"go.rls.moe/nyx/http"
+	"github.com/davidbelliott/nyx/config"
+	"github.com/davidbelliott/nyx/http"
 	"log"
 	"os"
 	"time"
